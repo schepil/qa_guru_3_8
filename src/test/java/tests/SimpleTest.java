@@ -17,8 +17,8 @@ public class SimpleTest {
         assertNotEquals(a,b);
     }
 
-    @Test
-    void assertFalse() {
-        assertEquals(a,b);
-    }
+//    @Test
+//    void assertFalse() {
+//        assertEquals(a,b);
+//    }
 }
